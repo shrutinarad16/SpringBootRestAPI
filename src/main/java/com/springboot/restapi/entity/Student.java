@@ -7,7 +7,7 @@ import lombok.Setter;
 import java.util.Map;
 
 @Entity
-@Table(name = "AljfUser_customuser_copy")
+@Table(name = "ABC")
 @Getter
 @Setter
 public class Student {
