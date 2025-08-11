@@ -140,7 +140,9 @@ Precursor for enterprise API gateway systems
 ---
 
 ## 📸 Social Preview Suggestion
-<img>
+```
+[![Output](images/my-image.png)](https://github.com/shrutinarad16/repo)
+```
 
 ## 🏆 Why This Project is Impressive
 
