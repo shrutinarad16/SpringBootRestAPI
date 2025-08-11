@@ -141,7 +141,7 @@ Precursor for enterprise API gateway systems
 
 ## 📸 Social Preview Suggestion
 ```
-[![Output](images/my-image.png)](https://github.com/shrutinarad16/repo)
+[![Output](Screenshot 2025-08-11 115439.png)](https://github.com/shrutinarad16/SpringBootRestAPI)
 ```
 
 ## 🏆 Why This Project is Impressive
